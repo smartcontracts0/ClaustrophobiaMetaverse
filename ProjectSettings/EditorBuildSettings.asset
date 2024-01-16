@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: a3bb7d59cf43b2648b63db4940a87b4c
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: a8de78861d9c16e4983e4f04f031429d
+  - enabled: 1
+    path: Assets/Scenes/MRI.unity
+    guid: 5e610698285026a41b6eaa8a0b625be1
+  - enabled: 1
+    path: Assets/Scenes/MazeGenerator.unity
+    guid: c8d5eb61ca623497bbd519de2670a340
+  - enabled: 1
+    path: Assets/Scenes/Reward.unity
+    guid: 3e683047ff9b29f4daa5c80093097ec5
+  - enabled: 1
+    path: Assets/Thirdweb/Examples/Scenes/Scene_Prefabs.unity
+    guid: bd374468f6e2ace4c81d8f34ac8672ca
+  m_configObjects: {}
